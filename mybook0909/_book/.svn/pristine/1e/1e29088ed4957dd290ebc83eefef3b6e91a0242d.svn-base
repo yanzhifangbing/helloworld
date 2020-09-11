@@ -1,0 +1,21 @@
+{
+  "plugins": [
+		"-lunr",
+		"-search", 
+		"-sharing",
+		"search-pro", 
+		"search-plus", 
+		"edit-link",
+		"back-to-top-button", 
+		"splitter",
+		"expandable-chapters",
+		"chapter-fold"
+	],
+  "title": "LB的电子书",
+  "pluginsConfig": {
+      "edit-link": {
+            "base":"https://XTZJ-2020CCMUMI:1130/svn/mybook/"
+        },
+	  "label": "编辑此页面"
+  }
+}
