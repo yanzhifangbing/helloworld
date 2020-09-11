@@ -18,7 +18,7 @@
   "language":"zh-hans",
   "pluginsConfig": {
 		"edit-link-plus": {
-            "base":"https://github.com/yanzhifangbing/helloworld.git"
+            "base":"https://github.com/yanzhifangbing/helloworld/blob/master/mybook0909/"
         },
 	  "label": "编辑此页面"
   }
