@@ -18,7 +18,7 @@
   "language":"zh-hans",
   "pluginsConfig": {
 		"edit-link-plus": {
-            "base":"https://XTZJ-2020CCMUMI:1130/svn/mybook/"
+            "base":"https://github.com/yanzhifangbing/helloworld.git"
         },
 	  "label": "编辑此页面"
   }
